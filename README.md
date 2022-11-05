@@ -15,5 +15,5 @@ I am a Cloud Engineer and Technical Writer. I am very passionate about sharing k
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devbird007&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Manny's GitHub stats" /> | <img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=devbird007&langs_count=10&layout=compact&hide_border=true&count_private=true](https://github-readme-stats.vercel.app/api/top-langs/?username=devbird007&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff)" alt="Manny's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devbird007&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" alt="Manny's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbird007&layout=compact&langs_count=8&hide_border=true&title_color=000000&icon_color=000000&text_color=000000&bg_color=ffffff&count_private=true" alt="Manny's GitHub stats" /> |
 | ------------- | ------------- |
