@@ -7,8 +7,8 @@ I'm a Cloud Engineer and Technical Writer. I'm very passionate about sharing kno
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning Python, Ansible and Docker.
+- 💡 Fun fact: I'm currently working on Outreachy, May2023 batch.
+- 🌱 I’m currently doing my best to contribute to wonderful opensource projects I can find.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Technical Writer or DevOps Engineer (Intern or Junior level).
 - 📫 You can [view my resume](#) and contact me by emailing marnuel.et@gmail.com.
