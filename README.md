@@ -16,5 +16,5 @@ I'm a Cloud Engineer and Technical Writer. I'm very passionate about sharing kno
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="95%" height="600px">
 ---
 
-| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)   | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbird007&langs_count=8&layout=compact&hide_border=true&exclude_repo=repo1,Manny" alt="Manny's GitHub stats" /> |
+| ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=devbird007&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)   | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbird007&langs_count=8&layout=compact&hide_border=true&exclude_repo=repo1,Manny" alt="Manny's GitHub stats" /> |
 | ------------- | ------------- |
