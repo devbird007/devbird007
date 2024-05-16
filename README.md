@@ -8,7 +8,7 @@ I'm a Cloud Engineer and Technical Writer. I'm very passionate about sharing kno
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently an Outreachy intern contributing to the ChRIS-in-a-Box project.
+- 💡 Fun fact: I'm currently contributing to opensource Go and working on DevOps projects.
 - 🌱 I’m currently doing my best to contribute to wonderful opensource projects I can find.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Technical Writer or DevOps Engineer (Intern or Junior level).
