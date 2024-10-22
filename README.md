@@ -12,7 +12,7 @@ I'm a Cloud Engineer and Technical Writer. I'm very passionate about sharing kno
 - 🌱 I’m currently doing my best to contribute to wonderful opensource projects I can find.
 - 😊 I’m looking for help with open source projects, hackathons, and DevOps-Engineer gigs.
 - 💼 Job interests: Technical Writer, DevOps Engineer & Cloud Architect .
-- 📫 You can contact me by sending a message to my [email](emailing marnuel.et@gmail.com).
+- 📫 You can contact me by sending a message to my [email](marnuel.et@gmail.com).
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="100%" height="600px">
 
 
