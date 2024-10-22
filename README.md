@@ -10,9 +10,9 @@ I'm a Cloud Engineer and Technical Writer. I'm very passionate about sharing kno
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently contributing to opensource Go and working on DevOps projects.
 - 🌱 I’m currently doing my best to contribute to wonderful opensource projects I can find.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Technical Writer or DevOps Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing marnuel.et@gmail.com.
+- 😊 I’m looking for help with open source projects, hackathons, and DevOps-Engineer gigs.
+- 💼 Job interests: Technical Writer, DevOps Engineer & Cloud Architect .
+- 📫 You can contact me by emailing marnuel.et@gmail.com.
 <img src="https://user-images.githubusercontent.com/64049432/203648913-38af64b1-2761-4a04-919d-aeb567935a47.gif" border-radius="5px" width="100%" height="600px">
 
 
